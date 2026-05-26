@@ -2,22 +2,23 @@
     margin: 0;
 }
 
-body {
-
-    .nav-item{
-        color: black;
-    }
 
 
-    .btn-agendar {
-        background-color: #c40000;
-        color: white;
-    }
+.btn-agendar {
+    background-color: #c40000;
+    color: white;
+}
 
-    .btn-agendar:hover {
-        background-color: #920000;
-        color: white;
-    }
+.btn-agendar:hover {
+    background-color: #920000;
+    color: white;
+}
 
 
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: #dddddd !important;
 }
