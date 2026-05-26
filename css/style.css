@@ -5,7 +5,7 @@
 
 
 .btn-agendar {
-    background-color: #c40000;
+    background-color: #bb0000;
     color: white;
 }
 
@@ -21,4 +21,10 @@
 
 .nav-link:hover {
     color: #dddddd !important;
+}
+
+footer{
+    p{
+        color: white;
+    }
 }

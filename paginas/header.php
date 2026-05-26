@@ -10,8 +10,8 @@
 </head>
 
 <body>
-    <header >
-        <nav class="navbar navbar-expand-lg bg-black">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-black">
 
             <div class="container-fluid">
 
@@ -60,16 +60,6 @@
 
         </nav>
     </header>
-
-    <main>
-
-
-
-    </main>
-    <footer>
-
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>    
 </body>
-
 </html>
