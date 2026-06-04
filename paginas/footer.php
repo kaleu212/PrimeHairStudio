@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <footer class="bg-black p-3">
+    <footer class="bg-dark p-3">
         <p class="text-center ">
 
         2026   Todos diretos reservados - Desenvolvido por Heithor Kaléu.

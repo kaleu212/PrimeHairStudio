@@ -23,6 +23,31 @@
     color: #dddddd !important;
 }
 
+
+.hero-banner{
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+}
+
+.hero-banner h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: white;
+}
+
+.hero-banner p{
+    font-size: 1.4rem;
+    margin: 20px 0;
+    color: white;
+}
+
+.hero-img{
+    max-width: 100%;
+    height: auto;
+}
+
 footer{
     p{
         color: white;

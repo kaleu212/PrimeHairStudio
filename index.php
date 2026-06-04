@@ -10,15 +10,42 @@
 </head>
 
 <body>
-<?php include("paginas/header.php"); ?>
+    <?php include("paginas/header.php"); ?>
 
-<main>
+    <main>
+        <section class="hero-banner">
+            <div class="container">
 
-    <h1>Home</h1>
+                <div class="row align-items-center">
 
-</main>
+                    <div class="col-lg-6">
+                        <h1>MAIS QUE UM CORTE, UMA EXPERIÊNCIA</h1>
 
-<?php include("paginas/footer.php"); ?>
+                        <p class="lead">
+                            Estilo, conforto e precisão em cada atendimento.
+                        </p>
+
+                        <div class="text-center text-lg-start">
+                            <a href="#" class="btn btn-danger btn-lg">
+                                Agendar Horário
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 text-center">
+                        <img
+                            src="img/arielmukoon.png"
+                            alt="Barbearia"
+                            class="img-fluid hero-img">
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <?php include("paginas/footer.php"); ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
