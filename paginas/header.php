@@ -15,7 +15,7 @@
 
             <div class="container-fluid">
 
-                <a class="logo" href="index.html">
+                <a class="logo" href="index.php">
                     <img src="img/logo (2).png" alt="Prime Hair Studio" width="120">
                 </a>
 
