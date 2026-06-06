@@ -43,7 +43,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Sobre</a>
+                            <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
 
                     </ul>
