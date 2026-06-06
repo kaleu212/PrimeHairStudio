@@ -39,10 +39,6 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Barbeiros</a>
-                        </li>
-
-                        <li class="nav-item">
                             <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
 
