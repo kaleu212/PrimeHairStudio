@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prime Hair Studio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -27,7 +28,7 @@
 
                         <div class="text-center text-lg-start">
                             <a href="#" class="btn btn-danger btn-lg">
-                                Agendar Horário
+                                Agendar Online
                             </a>
                         </div>
                     </div>
@@ -73,8 +74,9 @@
                                 R$ 60,00
                             </div>
 
-                            <a href="#" class="btn btn-danger mt-3">
+                            <a href="https://wa.me/5544999259339" class="btn btn-danger mt-3">
                                 Agendar
+                                <i class="bi bi-whatsapp me-2"></i>
                             </a>
 
                         </div>
@@ -93,8 +95,9 @@
                                 R$ 115,00
                             </div>
 
-                            <a href="#" class="btn btn-danger mt-3">
+                            <a href="https://wa.me/5544999259339" class="btn btn-danger mt-3">
                                 Agendar
+                                <i class="bi bi-whatsapp me-2"></i>
                             </a>
 
                         </div>
@@ -113,8 +116,9 @@
                                 R$ 80,00
                             </div>
 
-                            <a href="#" class="btn btn-danger mt-3">
+                            <a href="https://wa.me/5544999259339" class="btn btn-danger mt-3">
                                 Agendar
+                                <i class="bi bi-whatsapp me-2"></i>
                             </a>
 
                         </div>
@@ -133,8 +137,9 @@
                                 R$ 135,00
                             </div>
 
-                            <a href="#" class="btn btn-danger mt-3">
+                            <a href="https://wa.me/5544999259339" class="btn btn-danger mt-3">
                                 Agendar
+                                <i class="bi bi-whatsapp me-2"></i>
                             </a>
 
                         </div>
