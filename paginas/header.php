@@ -35,7 +35,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#servicos">Serviços</a>
+                            <a class="nav-link" href="index.php#servicos">Serviços</a>
                         </li>
 
                         <li class="nav-item">
