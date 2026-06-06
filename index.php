@@ -43,6 +43,109 @@
 
             </div>
         </section>
+        <section id="servicos" class="servicos py-5">
+
+            <div class="container">
+
+                <div class="text-center mb-5">
+
+                    <span class="subtitulo">
+                        SERVIÇOS
+                    </span>
+
+                    <h2 class="titulo-section">
+                        Serviços com Ariel
+                    </h2>
+
+                </div>
+
+                <div class="row g-4">
+
+                    <div class="col-lg-3 col-md-6">
+
+                        <div class="card-servico">
+
+                            <h3>Barba</h3>
+
+                            <div class="tempo">30 min</div>
+
+                            <div class="preco">
+                                R$ 60,00
+                            </div>
+
+                            <a href="#" class="btn btn-danger mt-3">
+                                Agendar
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+
+                        <div class="card-servico">
+
+                            <h3>Cabelo e Barba</h3>
+
+                            <div class="tempo">60 min</div>
+
+                            <div class="preco">
+                                R$ 115,00
+                            </div>
+
+                            <a href="#" class="btn btn-danger mt-3">
+                                Agendar
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+
+                        <div class="card-servico">
+
+                            <h3>Cabelo e Sobrancelha </h3>
+
+                            <div class="tempo">30 min</div>
+
+                            <div class="preco">
+                                R$ 80,00
+                            </div>
+
+                            <a href="#" class="btn btn-danger mt-3">
+                                Agendar
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+
+                        <div class="card-servico">
+
+                            <h3>Cabelo, Barba e Sobrancelha</h3>
+
+                            <div class="tempo">60 min</div>
+
+                            <div class="preco">
+                                R$ 135,00
+                            </div>
+
+                            <a href="#" class="btn btn-danger mt-3">
+                                Agendar
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
     </main>
 
     <?php include("paginas/footer.php"); ?>
